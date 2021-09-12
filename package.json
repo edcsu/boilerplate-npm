@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "0.0.1",
 	"author": "Ssewannonda Keith Edwin",
 	"description": "A nodeJS backend project that is a RESTFUL API",
 	"keywords": [ "freecodecamp", "nodeJs", "Javascript", "API", "restful", "express" ],

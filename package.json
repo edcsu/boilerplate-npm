@@ -6,7 +6,7 @@
 	"keywords": [ "freecodecamp", "nodeJs", "Javascript", "API", "restful", "express" ],
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment" : "2.14.0" 
+		"moment" : "^2.14.0" 
 	},
 	"main": "server.js",
 	"scripts": {
